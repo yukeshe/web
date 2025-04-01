@@ -1,1 +1,5 @@
 www.yukesh-elayappan.site
+Host: www
+Type: CNAME
+TTL: 300 
+Value: yukeshe.github.io
